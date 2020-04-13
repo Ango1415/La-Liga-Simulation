@@ -8,3 +8,4 @@ Este proyecto fue propesto para la asignatura Simulación Digital en mi carrera 
 Video explicativo: https://www.youtube.com/watch?v=4G9GOMU7yFQ&t=10s
 
 Para la ejecución del notebook recomendamos el uso de la herramienta Google Colaboratory.
+FMEL_Dataset.cvs es el dataset que usamos para nuestro proyecto, está anexo junto con el Notebook.
